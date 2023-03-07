@@ -23,3 +23,5 @@ const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type } }) => {
 };
 
 export default MovieCard;
+
+// trying out
